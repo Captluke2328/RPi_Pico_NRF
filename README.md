@@ -15,6 +15,9 @@
 * GP19 -----MOSI
 * GP18 -----SCK
 
+![Uploading Highlighted_Pin.png…]()
+
+
 ## How to run this code
 1. Upload transmitter and reciver code into PiCo. Please ensure correct CE an CSN pin match to hardware connection
 2. Go to "RPi_Pico_Keyboard_Send_To_NRF_Transmitter_Python" directory and run python script with admin access
