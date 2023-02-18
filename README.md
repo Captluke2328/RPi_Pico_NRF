@@ -14,8 +14,7 @@
 * GP16 -----MISO
 * GP19 -----MOSI
 * GP18 -----SCK
-
-![Uploading Highlighted_Pin.png…]()
+![PiCO_Connections](https://user-images.githubusercontent.com/81543946/219866848-5d727f0e-4274-4cfd-a1ad-0342e7305d2c.png)
 
 
 ## How to run this code
